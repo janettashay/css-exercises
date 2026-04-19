@@ -1,1 +1,28 @@
-/* Add CSS Styling */
+/* .container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+
+/* div p {
+    background-color: lightpink;
+    color: darkgreen;
+    font-size: 28px;
+    text-align: center;
+} */
+
+/* div .text {
+    background-color: lavender;
+    color: powderblue;
+    font-size: 36px;
+    text-align: center;
+} */
+
+.container p {
+    background-color: blueviolet;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
