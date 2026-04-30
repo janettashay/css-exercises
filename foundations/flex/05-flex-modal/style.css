@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+/* * {
+  outline: 1px solid black;
+} */
 
 html, body {
   height: 100%;
@@ -20,6 +23,23 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+
+}
+.middle {
+  max-width: 350px;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.text {
+  font-size: 14px;
+  padding: 10px 0 10px 0;
 }
 
 .icon {
