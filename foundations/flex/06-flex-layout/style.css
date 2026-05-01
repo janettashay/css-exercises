@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-/* * {
-  outline: 1px solid black;
-} */
+* {
+  /* outline: 1px solid black; */
+  margin: 0;
+  padding: 0;
+  box-sizing: box-border;
+}
 
 body {
   height: 100vh;
@@ -69,8 +72,8 @@ li {
   gap: 12px;
   justify-content: flex-start;
   align-items: center;
-  margin: 0;
-  padding: 0;
+  /* margin: 0;
+  padding: 0; */
 }
 
 .left-links {
@@ -78,6 +81,6 @@ li {
   gap: 12px;
   justify-content: flex-end;
   align-items: center;
-  padding: 0;
-  margin: 0;
+  /* padding: 0;
+  margin: 0; */
 }
